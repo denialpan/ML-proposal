@@ -1,5 +1,5 @@
 # Relevant Files
 
-`/src/`: Source files to run, and testing `.csv` data. Includes `.ipynb` file and code to run for our research.
+`/src/`: Source files to run, and testing `.csv` data. Includes `.ipynb` files and code to run for our research.
 
-`/images/`: Visualization and GANTT images.
+`/images/`: Visualization and result charts from Linear Regression, Neural Network, and Regression Tree.
